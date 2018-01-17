@@ -32,7 +32,9 @@ https://guides.gradle.org/building-java-applications/
 
 
 ## Personal notes (java demo)
-`gradle init --type java-application`
+* `gradle init --type java-application`
+* Report: file:///home/islomar/workspace/poc-gradle/java-demo/build/reports/tests/test/index.html
+* Execute application: `./gradlew run`
 
 
 ## Plugins
