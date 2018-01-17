@@ -9,6 +9,8 @@ Just use SDKMAN!! :-)
 
 ## Tutorials
 https://guides.gradle.org/creating-new-gradle-builds/  >> create the basic-demo folder
+http://www2.gradle.com/Materials/IntroToGradle_TrainingMaterials
+
 
 ## Java
 https://docs.gradle.org/4.4.1/userguide/tutorial_java_projects.html
