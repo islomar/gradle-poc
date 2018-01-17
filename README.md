@@ -22,7 +22,8 @@ https://guides.gradle.org/creating-new-gradle-builds/
 * `gradle tasks`: it shows you which tasks are available, which ones you can use.
 * `gradle wrapper`: generates a Gradle wrapper file. The wrapper is a small script and supporting jar and properties file that allows a user to execute Gradle tasks even if they don’t already have Gradle installed.
 * **IMPORTANT**: While Gradle versions are very good about supporting backward compatibility, using a wrapper ensures that the user is working with a version of Gradle that the project creator supports, and is therefore considered a good practice.
-
+* Execute all the tasks: `./gradlew tasks --all`
+* Execute the copy task: `./gradlew copy`
 
 ## Best practices
 * Use SDKMAN
