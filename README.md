@@ -24,7 +24,7 @@ https://guides.gradle.org/creating-new-gradle-builds/  >> create the basic-demo 
 * **IMPORTANT**: While Gradle versions are very good about supporting backward compatibility, using a wrapper ensures that the user is working with a version of Gradle that the project creator supports, and is therefore considered a good practice.
 * Execute all the tasks: `./gradlew tasks --all`
 * Execute the copy task: `./gradlew copy`
-
+* Remove the build directory: `./gradlew clean`
 
 ## Plugins
 Gradle includes a range of plugins, and many, many more are available at the Gradle plugin portal.

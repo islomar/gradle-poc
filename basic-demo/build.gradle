@@ -9,3 +9,7 @@ task copy(type: Copy) {
     from 'src'
     into 'dest'
 }
+
+task zip(type: Zip) {
+    from 'src'
+}
