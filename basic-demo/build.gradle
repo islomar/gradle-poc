@@ -13,3 +13,9 @@ task copy(type: Copy) {
 task zip(type: Zip) {
     from 'src'
 }
+
+task hello {
+    doLast {
+        println 'Hello, World!'
+    }
+}
